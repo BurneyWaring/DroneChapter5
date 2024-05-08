@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Drone artifact/white_treatment.png" type="Texture" id=1]
+
+[node name="TopDroneTreatment" type="Sprite"]
+texture = ExtResource( 1 )
